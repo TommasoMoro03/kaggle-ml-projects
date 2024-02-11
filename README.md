@@ -1,2 +1,2 @@
-# kaggle-ml-projects
-Some projects of Machine Learning taken from Kaggle
+# Machine Learning projects
+Some projects of Machine Learning and Data Analysis with dataset taken from Kaggle
